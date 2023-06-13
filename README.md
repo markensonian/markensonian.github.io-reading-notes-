@@ -21,3 +21,11 @@ This site is used to take Code 102. I'll be using Markdown, HTML, CSS, and JavaS
 ### Code 102
 
 - [Growth Mindset](Code-102/Growth-Mindset.md)
+- [Markdown](Code-102/Markdown.md)
+- [Coder's Computer](Code-102/Coders-Computer.md)
+- [Revisions and the Cloud](Code-102/Revisions-Cloud.md)
+- [Structure web pages with HTML](Code-102/Structure-with-HTML.md)
+- [Design Web Pages with CSS](Code-102/Design-with-CSS.md)
+- [Activate Web Pages with JavaScript](Code-102/Activate-with-JavaScript.md)
+- [Programming with JavaScript](Code-102/Programming-with-JavaScript.md)
+- [Operators and Loops](Code-102/Operators-Loops.md)
