@@ -20,7 +20,7 @@ This site is used to take Code 102. I'll be using Markdown, HTML, CSS, and JavaS
 
 ### Code 102
 
-- [Growth Mindset](Code-102/Growth-Mindset.md)
+- [Growth Mindset](Growth-Mindset.md)
 - [Markdown](Code-102/Markdown.md)
 - [Coder's Computer](Code-102/Coders-Computer.md)
 - [Revisions and the Cloud](Code-102/Revisions-Cloud.md)
