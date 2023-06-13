@@ -2,7 +2,7 @@
 
 ## About Me
 
-**My name is Markenson Delkhaste. I am based out of LA, CA.** :us:
+**My name is Markenson Delkhaste. I am based in LA, CA.** :us:
 
 Check out my portfolio [_here_](https://github.com/markensonian).
 
