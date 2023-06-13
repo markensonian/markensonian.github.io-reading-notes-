@@ -1,4 +1,3 @@
-# https://markensonian.github.io/reading-notes/
 # Welcome to my **Reading Notes**
 
 ## About Me
