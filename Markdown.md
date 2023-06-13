@@ -6,11 +6,11 @@ Please see below for answers to your most pressing questions
 
 ### Q: What is Markdown?
 
-A: Markdown is a quick way to add style to a webpage without using HTML/CSS.
+A: Quick way to add style to a webpage without using HTML/CSS.
 
 ### Q: Why do we use Markdown?
 
-A: Because it doesn't require a coding skill; anyone can quickly pick this up and use it to make a webpage.
+A: It doesn't require a coding skill; anyone can quickly pick this up and use it to make a webpage.
 
 ### Q: What symbol will create a heading in Markdown?
 
@@ -27,7 +27,7 @@ A: Heading sizes range between x1 # and x6 #. To make the largest you will use 1
 
 ### Q: When making text bold or italicized for emphasis, it is best practice to use which symbol?
 
-A: You can use either * or _ symbols when making text bold of italicized. To start take the text that you want to make bold, wrap text in either symbol `*` or `_`. Bold use double the symbols, while italicised uses single symbols. Place the symbol(s) in front and back on text you want affected.
+A: * or _ symbols when making text bold or italicized. To start, take the text that you want to make bold, wrap text in either symbol `*` or `_`. Bold uses double the symbols, while italicised uses single symbols. Place the symbol(s) in front and back on text you want affected.
 
 ### **Bold**
 
@@ -53,7 +53,7 @@ A: Take the text you want to hyperlink and wrap in [].
 
     Ex: [GitHub]
     
-Then put the url link next to it in (). This makes a link that goes to GitHub and tells the user by the text GitHub that this routs to that site.
+Put url link next to it in (). This makes a link that goes to GitHub and tells the user by the text GitHub that this routs to that site.
 
     Ex: [GitHub](https://github.com/)
 
