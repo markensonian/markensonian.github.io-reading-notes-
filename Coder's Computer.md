@@ -10,17 +10,17 @@ Answer:
 
 1. **Code Completion**
 
-    - Similar to the predictive text that you see in emails and text messges. As you start to type you can press a button
-    and it'll complete it. If it doesn't know the exact option a drop down will appear for you to choose.
+    - Similar to the predictive text that you see in emails and text messages. As you start to type you can press a button
+    and it'll complete it. If it doesn't know the exact option a drop-down will appear for you to choose.
 
 2. **Syntax Highlighting**
 
-    - Color codes the different syntax (or set of rules to a language), so that it helps to understand the formatting.
+    - Color codes the different syntax (or set of rules to a language) so that it helps to understand the formatting.
 
 3. **Extensions**
 
-    - More customization of your text editor with useful tools that can alleviate pain points and give assitance while coding.
-    This helps with being flexibile while coding.
+    - More customization of your text editor with useful tools that can alleviate pain points and give assistance while coding.
+    This helps with being flexible while coding.
 
 4. **Themes**
 
@@ -48,9 +48,9 @@ Answer:
 - Makes new folders
     - To do this, write `mkdir <FolderName>` and replace what's between <> with the directory you want to create.
 
-5. touch=Create File
+5. touch=Create a File
 
-    - Makes new files. Add file extensions (ex: .txt, .doc, .pdf etc)
+    - Makes new files. Add file extensions (ex: .txt, .doc, .pdf, etc)
 
 ### Q: Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
