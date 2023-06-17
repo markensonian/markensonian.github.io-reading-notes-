@@ -1,4 +1,4 @@
-# The Coder's Computer
+# The Coder's Computer 
 
 ## Welcome to the Coder's FAQ: Text Editor & The Terminal
 
