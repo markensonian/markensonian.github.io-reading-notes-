@@ -62,4 +62,18 @@ Answer:
 
 2. mkdir new-project
 
-    - Makes (mkdir) a ne
+    - Makes (mkdir) a new directory that's named new-project.
+
+3. touch new-project/newfile.md
+
+    - Makes (touch) a new file (newfile.md) in the folder new-project.
+    - Goes to that directory (new-project) and makes the new file (newfile.md).
+
+4. cd ..
+
+    - Changes directories by going back to the previous folder.
+    - Changes with x1 . stays in the same directory, x2 .. goes back one, etc.
+
+5. ls projects/new-project
+
+    - Lists (ls) everything in the folder (new-project) by moving/changing directories through the path projects -> new-project.
