@@ -27,3 +27,39 @@ Answer:
     - You avoid eye strain when a dark mode is available.
 
 ### Q: What do the following commands do?
+
+Answer:
+
+1. pwd=Print Working Directory
+
+    - Tells what directory (or folder) you're in.
+
+2. ls=list
+
+    - Lists everything in your directory.
+    - Go to the directory you want to inspect and enter ls.
+
+3. cd=Change Directory
+
+    - Allows you to move to different directories.
+    - To do this, write `cd <directory>` Replace what's between <> with the directory you want to change to.
+
+4. mkdir=Make Directory
+- Makes new folders
+    - To do this, write `mkdir <FolderName>` and replace what's between <> with the directory you want to create.
+
+5. touch=Create a File
+
+    - Makes new files. Add file extensions (ex: .txt, .doc, .pdf, etc)
+
+### Q: Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+
+Answer:
+
+1. cd projects
+
+    - Changes the directory (cd) to the projects folder.
+
+2. mkdir new-project
+
+    - Makes (mkdir) a ne
