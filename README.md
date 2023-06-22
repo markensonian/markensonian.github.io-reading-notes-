@@ -45,6 +45,4 @@ This site is used to take Code 102. I'll be using Markdown, HTML, CSS, and JavaS
 - [Link 12](Code-201/link12.md)
 - [Link 13](Code-201/link13.md)
 - [Link 14](Code-201/link14.md)
-- [Link 15](Code-201/link15.md)
-- [Link 14](link14.md)
-- [Link 15](link15.md) A-C-P
+- [Link 15](Code-201/link15.md) A-C-P
