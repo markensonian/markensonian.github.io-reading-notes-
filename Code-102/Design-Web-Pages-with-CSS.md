@@ -12,6 +12,6 @@ Inline CSS can be put into the tag. Cascading order for the style sheets is inli
 
 ## CSS color
 
-body {
-  color: red;
+p {  
+	color: red;  
 }
